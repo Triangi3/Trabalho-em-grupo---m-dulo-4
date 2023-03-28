@@ -128,3 +128,8 @@ exploratória feita em cima do conjunto de dados selecionados. </p>
 
 <h2>Ingrid Sousa: </h2>
 <p> <a href="https://github.com/Triangi3" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 30px"></a> </p>
+
+<h2>Pedro Rocha: </h2>
+<p> <a href="https://github.com/PedraoRocha26" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 30px"></a> </p>
+   
+<p>  <a href="https://www.linkedin.com/in/pedro-rocha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"></a> </p>
